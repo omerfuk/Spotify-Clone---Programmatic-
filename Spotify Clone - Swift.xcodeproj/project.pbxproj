@@ -29,6 +29,7 @@
 		DEA854D92866FE63003BFE06 /* AudioTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEA854D82866FE63003BFE06 /* AudioTrack.swift */; };
 		DEA854DB2866FE70003BFE06 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEA854DA2866FE70003BFE06 /* Artist.swift */; };
 		DEA854DD2866FE7A003BFE06 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEA854DC2866FE7A003BFE06 /* UserProfile.swift */; };
+		DEA854DF286706CA003BFE06 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEA854DE286706CA003BFE06 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		DEA854D82866FE63003BFE06 /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		DEA854DA2866FE70003BFE06 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		DEA854DC2866FE7A003BFE06 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		DEA854DE286706CA003BFE06 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				DEA854A02866FBBA003BFE06 /* AppDelegate.swift */,
 				DEA854A22866FBBA003BFE06 /* SceneDelegate.swift */,
 				DEA854A92866FBBC003BFE06 /* Assets.xcassets */,
+				DEA854DE286706CA003BFE06 /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				DEA854C32866FDB0003BFE06 /* AuthViewController.swift in Sources */,
 				DEA854A12866FBBA003BFE06 /* AppDelegate.swift in Sources */,
 				DEA854DD2866FE7A003BFE06 /* UserProfile.swift in Sources */,
+				DEA854DF286706CA003BFE06 /* Extensions.swift in Sources */,
 				DEA854BF2866FD81003BFE06 /* LibraryViewController.swift in Sources */,
 				DEA854DB2866FE70003BFE06 /* Artist.swift in Sources */,
 				DEA854CD2866FDED003BFE06 /* PlaylistViewController.swift in Sources */,

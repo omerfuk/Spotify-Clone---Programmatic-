@@ -30,6 +30,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         window.makeKeyAndVisible()
         self.window = window
         
+        
     /* Removing transparency of navBar
      
      if #available(iOS 15.0, *) {
